@@ -1,0 +1,11 @@
+@media only screen and (max-width: 380px) {
+    .table tbody td {
+        padding-left: .1rem;
+        padding-right: .1rem;
+        font-size: 14px;
+    }
+    .table thead th {
+        padding-left: .1rem;
+        padding-right: .1rem;
+    }
+  }
